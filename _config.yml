@@ -1,5 +1,5 @@
 title: Santhosh Paval
-logo: https://github.com/SanthoshPaval/Data-Analytics-Portfolio/blob/main/Beige%20Simple%20Photo%20Signature%20Twitter%20Profile%20Picture.png
-#description : text below image
+logo: [![Project Image](https://github.com/SanthoshPaval/Data-Analytics-Portfolio/blob/main/Beige%20Simple%20Photo%20Signature%20Twitter%20Profile%20Picture.png)
+description : Here's a look at my Data Science Portfolio :)
 #show_downloads: true
 theme: jekyll-theme-minimal
